@@ -1,0 +1,11 @@
+order_id,order_date,customer_id,product_name,quantity,price,status
+SO-001,2024-01-20,1001,Laptop,"2","$899.99",completed
+SO-002,2024-01-21,1002,Mouse,1,$29.99,completed
+SO-003,2024-01-22,1003,Keyboard,3,"$79.99",pending
+SO-004,2024-01-23,1004,Monitor,"1.5","$299.99",completed
+SO-005,01/24/2024,1005,Webcam,2,$149.99,shipped
+SO-006,2024-01-25,1006,Headphones,abc,"$199.99",cancelled
+SO-007,2024-01-26,1007,Desk Lamp,5,$45.50,completed
+SO-008,Jan 27 2024,1008,USB Cable,10,"$12.99",completed
+SO-009,2024-01-28,1009,Chair,1,"$350.00",pending
+SO-010,2024-01-29,1010,Desk,2,$-450.00,completed

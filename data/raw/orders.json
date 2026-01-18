@@ -1,0 +1,47 @@
+[
+  {
+    "order_id": "ORD-2001",
+    "customer_id": 1001,
+    "order_date": "2024-02-01",
+    "total_amount": 899.99,
+    "items": [
+      {"product_id": "PROD-101", "quantity": 1, "price": 899.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2002",
+    "customer_id": 1002,
+    "order_date": "2024-02-02",
+    "total_amount": 179.97,
+    "items": [
+      {"product_id": "PROD-102", "quantity": 3, "price": 59.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2003",
+    "customer_id": 1003,
+    "order_date": "2024-02-03",
+    "total_amount": 449.98,
+    "items": [
+      {"product_id": "PROD-103", "quantity": 2, "price": 224.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2004",
+    "customer_id": 1004,
+    "order_date": "2024-02-04",
+    "total_amount": 299.99,
+    "items": [
+      {"product_id": "PROD-104", "quantity": 1, "price": 299.99}
+    ]
+  },
+  {
+    "order_id": "ORD-2005",
+    "customer_id": 1005,
+    "order_date": "2024-02-05",
+    "total_amount": 599.95,
+    "items": [
+      {"product_id": "PROD-105", "quantity": 5, "price": 119.99}
+    ]
+  }
+]
